@@ -23,4 +23,4 @@
 - [**Fofa-API-Python**](https://github.com/Re13orn/Fofa-API-Python) · Python scripts for FOFA-based reconnaissance.
 - [**Veronica-framework**](https://github.com/Re13orn/Veronica-framework) · Early pentest automation project focused on MS17-010.
 
-愿你眼中总有光明 :)
+May there always be light in your eyes :)
