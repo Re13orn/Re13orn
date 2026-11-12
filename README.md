@@ -1,20 +1,28 @@
 ![Re13orn · Web Pentesting · Mobile Security · Red Team](./assets/security-banner.webp)
 
-抓流量，拆客户端，找入口。重复的活交给脚本。
+> *The Yellow River thunders down from heaven, racing to the sea, never to return.*
+>
+> — Li Bai, [*Bring in the Wine*](https://ctext.org/text.pl?if=en&node=136578&remap=gb) (English rendering)
 
-### Web 渗透测试
+### Web Pentesting
 
-- [**burp-smart-proxy-filter**](https://github.com/Re13orn/burp-smart-proxy-filter) · 按规则过滤 Burp Suite 代理请求，减少手动放行。
-- [**xss-lab**](https://github.com/Re13orn/xss-lab) · 包含 20 个关卡的 XSS 练习靶场。
+- [**BypassCloudflare**](https://github.com/Re13orn/BypassCloudflare) · Burp Suite extension for testing with browser-like TLS and HTTP/2 fingerprints.
+- [**burp-smart-proxy-filter**](https://github.com/Re13orn/burp-smart-proxy-filter) · Rule-based request interception for Burp Suite.
+- [**ChromeBurpSuite**](https://github.com/Re13orn/ChromeBurpSuite) · Intercept, edit, and replay HTTP traffic from Chrome DevTools.
+- [**xss-lab**](https://github.com/Re13orn/xss-lab) · A 20-level XSS practice lab.
+- [**SiteReport**](https://github.com/Re13orn/SiteReport) · HTTP checks and reports for websites.
 
-### 移动安全
+### Mobile Security
 
-- [**iAppVM**](https://github.com/Re13orn/iAppVM) · 在非越狱设备上测试 iOS 应用的工作台。
-- [**mobile-app-testing-mcp**](https://github.com/Re13orn/mobile-app-testing-mcp) · 通过 MCP 使用 ADB、aapt 和 JADX 分析 Android 应用。
-- [**scamAppScan**](https://github.com/Re13orn/scamAppScan) · 用于检测恶意 APK。
+- [**iAppVM**](https://github.com/Re13orn/iAppVM) · iOS app testing on non-jailbroken devices.
+- [**mobile-app-testing-mcp**](https://github.com/Re13orn/mobile-app-testing-mcp) · Android app analysis with ADB, aapt, and JADX over MCP.
+- [**CVE-2024-0044-EXP**](https://github.com/Re13orn/CVE-2024-0044-EXP) · Android privilege-escalation PoC targeting app sandbox access.
+- [**scamAppScan**](https://github.com/Re13orn/scamAppScan) · Malicious APK detection.
+- [**AutoAuditWallet**](https://github.com/Re13orn/AutoAuditWallet) · Static and dynamic analysis for Web3 wallet apps.
 
-### Red Team
+### Red Team & Recon
 
-- [**Veronica-framework**](https://github.com/Re13orn/Veronica-framework) · 早期渗透测试自动化框架，公开版本聚焦 MS17-010。
+- [**Fofa-API-Python**](https://github.com/Re13orn/Fofa-API-Python) · Python scripts for FOFA-based reconnaissance.
+- [**Veronica-framework**](https://github.com/Re13orn/Veronica-framework) · Early pentest automation project focused on MS17-010.
 
-> 愿你眼中总有光明 :)
+愿你眼中总有光明 :)
