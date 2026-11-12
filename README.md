@@ -1,6 +1,6 @@
 ![Re13orn · Web Pentesting · Mobile Security · Red Team](./assets/security-banner.webp)
 
-我关注 Web 渗透测试、移动应用安全和红队技术，也写工具来辅助测试和分析。
+抓流量，拆客户端，找入口。重复的活交给脚本。
 
 ### Web 渗透测试
 
