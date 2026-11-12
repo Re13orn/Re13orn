@@ -1,8 +1,6 @@
 ![Re13orn · Web Pentesting · Mobile Security · Red Team](./assets/security-banner.webp)
 
-> *The Yellow River thunders down from heaven, racing to the sea, never to return.*
->
-> — Li Bai, [*Bring in the Wine*](https://ctext.org/text.pl?if=en&node=136578&remap=gb) (English rendering)
+> *Where the map ends, I follow the signal.*
 
 ### Web Pentesting
 
