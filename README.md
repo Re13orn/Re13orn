@@ -4,6 +4,7 @@
 
 ### Web Pentesting
 
+- [**UniversalCryptoExtension**](https://github.com/Re13orn/UniversalCryptoExtension) · Burp Suite extension for rule-based encryption, decryption, signing, and field transformations in HTTP traffic.
 - [**BypassCloudflare**](https://github.com/Re13orn/BypassCloudflare) · Burp Suite extension for testing with browser-like TLS and HTTP/2 fingerprints.
 - [**burp-smart-proxy-filter**](https://github.com/Re13orn/burp-smart-proxy-filter) · Rule-based request interception for Burp Suite.
 - [**ChromeBurpSuite**](https://github.com/Re13orn/ChromeBurpSuite) · Intercept, edit, and replay HTTP traffic from Chrome DevTools.
