@@ -17,7 +17,6 @@
 - [**mobile-app-testing-mcp**](https://github.com/Re13orn/mobile-app-testing-mcp) · Android app analysis with ADB, aapt, and JADX over MCP.
 - [**CVE-2024-0044-EXP**](https://github.com/Re13orn/CVE-2024-0044-EXP) · Android privilege-escalation PoC targeting app sandbox access.
 - [**scamAppScan**](https://github.com/Re13orn/scamAppScan) · Malicious APK detection.
-- [**AutoAuditWallet**](https://github.com/Re13orn/AutoAuditWallet) · Static and dynamic analysis for Web3 wallet apps.
 
 ### Red Team & Recon
 
