@@ -13,6 +13,7 @@
 
 ### Mobile Security
 
+- [**IPA-Decrypt**](https://github.com/Re13orn/IPA-Decrypt) · IPA downloads, FairPlay decryption, and credential management for iOS and macOS.
 - [**iAppVM**](https://github.com/Re13orn/iAppVM) · iOS app testing on non-jailbroken devices.
 - [**mobile-app-testing-mcp**](https://github.com/Re13orn/mobile-app-testing-mcp) · Android app analysis with ADB, aapt, and JADX over MCP.
 - [**CVE-2024-0044-EXP**](https://github.com/Re13orn/CVE-2024-0044-EXP) · Android privilege-escalation PoC targeting app sandbox access.
